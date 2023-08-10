@@ -1,8 +1,11 @@
 # Gravitational Wave Detector Zoo
 
 **Artificial Scientific Discovery of interferometric Gravitational Wave Detectors**\
-_Mario Krenn*, Yehonathan Drori*, Rana X. Adhikari_\
-(* = equal contribution)
+_Mario Krenn<sup>†,1</sup>, Yehonathan Drori<sup>†,2,3</sup>, Rana X. Adhikarix<sup>23</sup>_\
+(† = equal contribution)\
+<sup>1</sup>Max Planck Institute for the Science of Light\
+<sup>2</sup>LIGO Laboratory\
+<sup>3</sup>California Institute of Technology
 
 Here we present the technical details of solutions discovered by GWAlgo, and the
 corresponding PyKat and Finesse files for reproducing the solutions.
