@@ -38,7 +38,7 @@ geometric constraints. We sort them by the following properties:
 
 **Geometry constraints**
 * *Large*: UIFO diameters constraint to 4 kilometres
-* *Small*: Two 4 kilometer arms, and a 400x400 meter filters
+* *Small*: Two 4 kilometer arms, and 400x400 meter filters
 
 
 ## Solutions
