@@ -8,9 +8,15 @@ Here we present the technical details of solutions discovered by GWAlgo, and the
 corresponding PyKat and Finesse files for reproducing the solutions.
 
 <p align="center">
-   <img src="https://github.com/artificial-scientist-lab/GWDetectorZoo/blob/main/strain.png" alt="Strain Sensitivity of four superior solutions" width="666px">
+   <img src="strain.png" alt="Strain Sensitivity of four superior solutions" width="1000px">
 </p>
-Details on these four superior solutions can be found at [Broadband](type5/sol00/README.md), [Cosmology](type9/sol00/README.md), [Supernova](type2/sol00/README.md) and [Neutron Star Post-Merger](type6/sol00/README.md).
+
+Details on these four superior solutions can be found at
+[Broadband](type5/sol00),
+[Cosmology](type9/sol00),
+[Supernova](type2/sol00) and
+[Neutron Star Post-Merger](type8/sol00).
+
 
 ## Solutions types
 We have solutions for various frequency regimes, with different noise sources, and different geometric constraints. We sort them by the following properties:
@@ -32,13 +38,34 @@ We have solutions for various frequency regimes, with different noise sources, a
 
 
 ## Solutions
-* [Post-Merger, Quantum+Classical, Large](type0/README.md)
-* [Narrow Post-Merger, Quantum+Classical, Large](type1/README.md)
-* [Supernova, Quantum+Classical, Large](type2/README.md)
-* [Primodial Black Holes, Quantum+Classical, Large](type3/README.md)
-* [Broad Band, Quantum+Classical, Large](type4/README.md)
-* [Broad Band, Quantum, Large](type5/README.md)
-* [Narrow Post-Merger, Quantum, Large](type6/README.md)
-* [Post-Merger, Quantum, Large](type8/README.md)
-* [Primodial Black Holes, Quantum, Large](type9/README.md)
-* [Broad Band, Quantum, Small](type10/README.md)
+* **Post-Merger, Quantum+Classical, Large**
+   * [Solution 0](type0/sol00)
+* **Narrow Post-Merger, Quantum+Classical, Large**
+   * [Solution 0](type1/sol00)
+   * [Solution 1](type1/sol01)
+   * [Solution 2](type1/sol02)
+   * [Solution 3](type1/sol03)     
+* **Supernova, Quantum+Classical, Large**
+   * [Solution 0](type2/sol00)
+   * [Solution 1](type2/sol01)
+   * [Solution 2](type2/sol02)
+* **Primodial Black Holes, Quantum+Classical, Large**
+   * [Solution 0](type3/sol00)
+   * [Solution 1](type3/sol01)
+   * [Solution 2](type3/sol02) 
+* **Broad Band, Quantum+Classical, Large**
+   * [Solution 0](type4/sol00)
+* **Broad Band, Quantum, Large**
+   * [Solution 0](type5/sol00)
+   * [Solution 1](type5/sol01)
+* **Narrow Post-Merger, Quantum, Large**
+* * ...
+* **Post-Merger, Quantum, Large**
+* * ...
+* **Primodial Black Holes, Quantum, Large**
+* * ...
+* **Broad Band, Quantum, Small**
+   * [Solution 0](type10/sol00)
+   * [Solution 1](type10/sol01)
+   * [Solution 2](type10/sol02)
+   * [Solution 3](type10/sol03)   
