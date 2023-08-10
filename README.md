@@ -8,5 +8,5 @@ Here we present the technical details of solutions discovered by GWAlgo, and the
 corresponding PyKat and Finesse files for reproducing the solutions.
 
 <p align="center">
-   <img src="[https://github.com/aspuru-guzik-group/selfies/blob/master/examples/VAE_LS_Validity.png](https://github.com/artificial-scientist-lab/GWDetectorZoo/blob/main/strain.png)https://github.com/artificial-scientist-lab/GWDetectorZoo/blob/main/strain.png" alt="Strain Sensitivity of four superior solutions" width="666px">
+   <img src="https://github.com/artificial-scientist-lab/GWDetectorZoo/blob/main/strain.png" alt="Strain Sensitivity of four superior solutions" width="666px">
 </p>
