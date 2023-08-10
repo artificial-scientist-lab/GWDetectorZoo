@@ -7,7 +7,7 @@ _Mario Krenn<sup>†,1</sup>, Yehonathan Drori<sup>†,2,3</sup>, Rana X. Adhika
 <sup>2</sup>LIGO Laboratory\
 <sup>3</sup>California Institute of Technology
 
-Here we present the technical details of solutions discovered by GWAlgo, and the
+Here we present the technical details of solutions discovered by GWAlgo, and the\
 corresponding PyKat and Finesse files for reproducing the solutions.
 
 <p align="center">
@@ -22,7 +22,8 @@ Details on these four superior solutions can be found at
 
 
 ## Solutions types
-We have solutions for various frequency regimes, with different noise sources, and different geometric constraints. We sort them by the following properties:
+We have solutions for various frequency regimes, with different noise sources, and different\
+geometric constraints. We sort them by the following properties:
 
 **Frequency ranges**
 * *Post-Merger*: 800Hz-3000Hz
@@ -41,6 +42,10 @@ We have solutions for various frequency regimes, with different noise sources, a
 
 
 ## Solutions
+The 59 solutions are sorted by type, and then by sensitivity. *Solution0* is the\
+best performing one, the last solution has lowest sensitivity while being better\
+than the LIGO Voyager baseline.
+
 * **Post-Merger, Quantum+Classical, Large**
    * [Solution 0](type0/sol00)
 * **Narrow Post-Merger, Quantum+Classical, Large**
