@@ -37,7 +37,7 @@ We have solutions for various frequency regimes, with different noise sources, a
 
 **Geometry constraints**
 * *Large*: UIFO diameters constraint to 4 kilometres
-* *Small*: Two 4 kilometer arms, and a 400x400 meter GW transducer
+* *Small*: Two 4 kilometer arms, and a 400x400 meter filters
 
 
 ## Solutions
