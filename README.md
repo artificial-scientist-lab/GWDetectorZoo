@@ -10,7 +10,7 @@ corresponding PyKat and Finesse files for reproducing the solutions.
 <p align="center">
    <img src="https://github.com/artificial-scientist-lab/GWDetectorZoo/blob/main/strain.png" alt="Strain Sensitivity of four superior solutions" width="666px">
 </p>
-Details on these four superior solutions can be found at [Broadband](), [Cosmology](), [Supernova]() and [Neutron Star Post-Merger]().
+Details on these four superior solutions can be found at [Broadband](type5/sol00/README.md), [Cosmology](type9/sol00/README.md), [Supernova](type2/sol00/README.md) and [Neutron Star Post-Merger](type6/sol00/README.md).
 
 ## Solutions types
 We have solutions for various frequency regimes, with different noise sources, and different geometric constraints. We sort them by the following properties:
