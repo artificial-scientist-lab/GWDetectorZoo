@@ -14,9 +14,9 @@ compared to the LIGO Voyager baseline (which itself is parametrically optimized)
 it means that the solution not only has better parameter settings, but necessarily\
 have new improved topologies.
 
-The **goals of the GW Detector Zoo**: *Getting the gravitational wave community involved*\
-to explore and understand the AI-guided solutions, and learn new AI-inspired ideas\
-and concepts of high-sensitivity interferometers.
+### Goals of the GW Detector Zoo
+**Getting the gravitational wave community involved** to explore and understand the AI-guided solutions,\
+and learn new AI-inspired ideas and concepts of high-sensitivity interferometers.\
 - Every interested researcher is invited to contribute their findings to the Zoo (via Issues or Pull Requests).
 - We will keep updating the Zoo with new computational results or conceptualization insights.
   
