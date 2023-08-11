@@ -1,0 +1,29 @@
+# Broadband: 20Hz - 5kHz, id=0
+<p align="center"><img src="strain.png" alt="Plot of Strain" width="666px"></p>
+
+## Properties
+| Property                              | Data                                                       |
+| ------------------------------------- | ----------------------------------------------------------------- |
+| Frequency range                   | 20-5000 |
+| Considered Noise types                   | quantum, laser frequency, laser intensity |
+| Astrophysical Target                   | Black Hole mergers |
+| Loss               | -21.11 |
+|               |  |
+| High-Resolution Setup | [PDF](setup.pdf) |
+| Full PyKat file       | [KAT](CFGS_5_-21.11_111_9002970130_0_7717157024.txt) |
+|               |  |
+| Lasers |  3 |
+| Squeezers |  1 |
+| Mirrors |  48 |
+| Beam Splitters |  9 |
+| Faraday Isolators |  1 |
+| Number of parameters  | 111 |
+## Experimental Setup
+<p align="center"><img src="setup.png" alt="setup" width="666px"></p>
+
+Note: The experimental setup is not fully optimized and could be significantly simpler.
+
+## Strain Sensitivity<p align="center"><img src="signal.png" alt="Plot of Signal" width="666px"></p>
+
+<p align="center"><img src="noise.png" alt="Plot of Noise" width="666px"></p>
+
