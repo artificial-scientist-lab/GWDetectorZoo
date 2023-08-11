@@ -16,7 +16,7 @@ have new improved topologies.
 
 ### Goals of the GW Detector Zoo
 **Getting the gravitational wave community involved** to explore and understand the AI-guided solutions,\
-and learn new AI-inspired ideas and concepts of high-sensitivity interferometers.\
+and learn new AI-inspired ideas and concepts of high-sensitivity interferometers.
 - Every interested researcher is invited to contribute their findings to the Zoo (via Issues or Pull Requests).
 - We will keep updating the Zoo with new computational results or conceptualization insights.
   
