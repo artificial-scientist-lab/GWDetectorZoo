@@ -1,7 +1,7 @@
 # Gravitational Wave Detector Zoo
 
 **Artificial Scientific Discovery of interferometric Gravitational Wave Detectors**\
-_Mario Krenn<sup>†,1</sup>, Yehonathan Drori<sup>†,2,3</sup>, Rana X. Adhikarix<sup>23</sup>_\
+_Mario Krenn<sup>†,1</sup>, Yehonathan Drori<sup>†,2,3</sup>, Rana X. Adhikarix<sup>2,3</sup>_\
 († = equal contribution)\
 <sup>1</sup>Max Planck Institute for the Science of Light\
 <sup>2</sup>LIGO Laboratory\
