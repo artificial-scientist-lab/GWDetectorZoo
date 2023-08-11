@@ -124,4 +124,8 @@ than the LIGO Voyager baseline.
    * [Solution 0](solutions/type10/sol00)
    * [Solution 1](solutions/type10/sol01)
    * [Solution 2](solutions/type10/sol02)
-   * [Solution 3](solutions/type10/sol03)   
+   * [Solution 3](solutions/type10/sol03)
+
+ ## Software
+ - [Plotting the solution .kat files of GWAlgo](software/plotting)
+ - [Reproducing the sensitivity plots from a .kat file](software/sensitivity)
