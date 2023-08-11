@@ -8,8 +8,18 @@ _Mario Krenn<sup>†,1</sup>, Yehonathan Drori<sup>†,2,3</sup>, Rana X. Adhika
 <sup>3</sup>California Institute of Technology
 
 Here we present the technical details of solutions discovered by GWAlgo, and the\
-corresponding PyKat and Finesse files for reproducing the solutions.
+corresponding PyKat and Finesse files for reproducing the solutions. All solutions\
+are superior to the LIGO Voyager baseline. As all solutions have superior sensitivity\
+compared to the LIGO Voyager baseline (which itself is parametrically optimized),\
+it means that the solution not only has better parameter settings, but necessarily\
+have new improved topologies.
 
+The **goals of the GW Detector Zoo**: *Getting the gravitational wave community involved*\
+to explore and understand the AI-guided solutions, and learn new AI-inspired ideas\
+and concepts of high-sensitivity interferometers.
+- Every interested researcher is invited to contribute their findings to the Zoo (via Issues or Pull Requests).
+- We will keep updating the Zoo with new computational results or conceptualization insights.
+  
 <p align="center">
    <img src="strain.png" alt="Strain Sensitivity of four superior solutions" width="1000px">
 </p>
