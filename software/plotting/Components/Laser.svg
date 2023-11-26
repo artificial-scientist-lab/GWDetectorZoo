@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.323469mm"
+   height="12.19835mm"
+   viewBox="0 0 16.323469 12.19835"
+   version="1.1"
+   id="svg10919"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Laser.svg">
+  <defs
+     id="defs10913">
+    <linearGradient
+       id="linearGradient5741"
+       x1="43.535999"
+       x2="43.535999"
+       y1="118.07"
+       y2="92.333"
+       gradientTransform="matrix(0.8,0,0,0.8,-34.828,-61.111)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5726" />
+    <linearGradient
+       id="linearGradient5726"
+       x1="28.722"
+       x2="28.722"
+       y1="32.973"
+       y2="13.131"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop1961" />
+      <stop
+         stop-color="#FEFCFC"
+         offset=".0051"
+         id="stop1963" />
+      <stop
+         stop-color="#E6A4A4"
+         offset=".1497"
+         id="stop1965" />
+      <stop
+         stop-color="#D35E5E"
+         offset=".277"
+         id="stop1967" />
+      <stop
+         stop-color="#C62B2B"
+         offset=".3823"
+         id="stop1969" />
+      <stop
+         stop-color="#BD0C0C"
+         offset=".4615"
+         id="stop1971" />
+      <stop
+         stop-color="#BA0000"
+         offset=".5056"
+         id="stop1973" />
+      <stop
+         stop-color="#D86E6E"
+         offset=".7077"
+         id="stop1975" />
+      <stop
+         stop-color="#F4D6D6"
+         offset=".9099"
+         id="stop1977" />
+      <stop
+         stop-color="#fff"
+         offset="1"
+         id="stop1979" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-78.30712"
+     inkscape:cy="-174.97724"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="67"
+     inkscape:window-y="158"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata10916">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.260884,-178.26392)">
+    <g
+       transform="matrix(-0.26458333,0,0,-0.26458333,93.584353,190.46227)"
+       id="g1990">
+      <rect
+         style="fill:#302b33"
+         x="0.375"
+         y="0.375"
+         width="56.693001"
+         height="12.756"
+         id="rect1957" />
+      <rect
+         style="fill:#302b33"
+         x="0.375"
+         y="32.973"
+         width="56.693001"
+         height="12.756"
+         id="rect1959" />
+      <linearGradient
+         id="linearGradient11506"
+         x1="28.722"
+         x2="28.722"
+         y1="32.973"
+         y2="13.131"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           stop-color="#fff"
+           offset="0"
+           id="stop11486" />
+        <stop
+           stop-color="#FEFCFC"
+           offset=".0051"
+           id="stop11488" />
+        <stop
+           stop-color="#E6A4A4"
+           offset=".1497"
+           id="stop11490" />
+        <stop
+           stop-color="#D35E5E"
+           offset=".277"
+           id="stop11492" />
+        <stop
+           stop-color="#C62B2B"
+           offset=".3823"
+           id="stop11494" />
+        <stop
+           stop-color="#BD0C0C"
+           offset=".4615"
+           id="stop11496" />
+        <stop
+           stop-color="#BA0000"
+           offset=".5056"
+           id="stop11498" />
+        <stop
+           stop-color="#D86E6E"
+           offset=".7077"
+           id="stop11500" />
+        <stop
+           stop-color="#F4D6D6"
+           offset=".9099"
+           id="stop11502" />
+        <stop
+           stop-color="#fff"
+           offset="1"
+           id="stop11504" />
+      </linearGradient>
+      <g
+         style="stroke:#000000;stroke-width:0.75"
+         id="g1988">
+        <rect
+           style="fill:url(#linearGradient5741)"
+           x="0.375"
+           y="13.131"
+           width="56.693001"
+           height="19.841999"
+           id="rect1982" />
+        <rect
+           x="57.068001"
+           y="3.2090001"
+           width="4.2519999"
+           height="39.686001"
+           id="rect1984" />
+        <rect
+           style="fill:none"
+           x="0.375"
+           y="0.375"
+           width="56.693001"
+           height="45.354"
+           id="rect1986" />
+      </g>
+    </g>
+  </g>
+</svg>
