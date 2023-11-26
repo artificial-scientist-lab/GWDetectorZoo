@@ -1,0 +1,108 @@
+const param0045 359.9999999
+const param0044 1.5e-05
+const param0043 154.37713521771258
+const param0042 1e-07
+const param0041 1.5e-05
+const param0040 3.279046355490483
+const param0039 10.688618819731095
+const param0038 2.6796670582726163
+const param0037 0.006154955834930604
+const param0036 10
+const param0035 184.7967477829096
+const param0034 0
+const param0033 0.014963335263308702
+const param0032 1e-07
+const param0031 0.5001024594440416
+const param0030 0
+const param0029 0
+const param0028 49.94152857653678
+const param0027 89.99998273578849
+const param0026 0.000879269741843394
+const param0025 34.64283600926565
+const param0024 200.0
+const param0023 1e-07
+const param0022 1.5e-05
+const param0021 4000
+const param0020 200.0
+const param0019 1e-07
+const param0018 0.0022379977862741294
+const param0017 0
+const param0016 168.09529804477893
+const param0015 1e-07
+const param0014 1.5e-05
+const param0013 4000
+const param0012 200.0
+const param0011 1e-07
+const param0010 0.0022385195118129215
+const param0009 0
+const param0008 48.673926590636604
+const param0007 63.639595447740554
+const param0006 0.4999989865608687
+const param0005 0
+const param0004 29.219295477805993
+const param0003 1e-07
+const param0002 0.04339831163504294
+const param0001 0
+const param0000 174.40607676222152
+% Laser
+l L00_03 $param0000 0.0 0.0 n0
+s SX00_03__01_03 $param0001 n0 nPRMs2
+fsig mRL_0_xsig SX00_03__01_03 1 0 1
+% PRM
+m1 M01_03 $param0002 5e-06 $param0003 nPRMs2 nPRM2
+attr M01_03 mass $param0004
+s SX01_03__02_03 $param0005 nPRM2 nPRBS
+fsig mRL_0_xsig SX01_03__02_03 1 0 1
+% BS
+bs1 B02_03 $param0006 5e-06 $param0007 45.0 nPRBS nYBS nXBS nSRBS
+attr B02_03 mass $param0008
+% Y arm
+s SY02_03__02_05 $param0009 nYBS nITMYs2
+fsig mUD_y_1sig SY02_03__02_05 1 180 1
+m1 M02_05 $param0010 5e-06 $param0011 nITMYs2 nITMY2
+attr M02_05 mass $param0012
+s SY02_05__02_06 $param0013 nITMY2 nETMY1
+fsig mUD_y_0sig SY02_05__02_06 1 180 1
+m1 M02_06 $param0014 5e-06 $param0015 nETMY1 nETMYs1
+attr M02_06 mass $param0016
+% X arm
+s SX02_03__03_03 $param0017 nXBS nITMXs2
+fsig mRL_2_xsig SX02_03__03_03 1 0 1
+m1 M03_03 $param0018 5e-06 $param0019 nITMXs2 nITMX2
+attr M03_03 mass $param0020
+s SX03_03__07_03 $param0021 nITMX2 nETMX1
+fsig mRL_3_xsig SX03_03__07_03 1 0 1
+m1 M07_03 $param0022 5e-06 $param0023 nETMX1 nETMXs1
+attr M07_03 mass $param0024
+% down
+s SY02_03__02_02 $param0025 nSRBS nSRM1
+fsig mUD_y_2sig SY02_03__02_02 1 180 1
+m1 M02_02 $param0026 5e-06 $param0027 nSRM1 nSRM2
+attr M02_02 mass $param0028
+s SY02_02__02_01 $param0029 nSRM2 nFI2a
+dbs F02_01 nFI2a nFI2b nFI2c nFI2d
+s SY02_01__02_00 $param0030 nFI2c nBHDBS_AS
+bs1 B02_00 $param0031 5e-06 $param0032 45.0 nBHDBS_AS ToPD1 ToPD2 nBHDBS_LO
+l L03_00 $param0033 0.0 $param0034 nLO
+s SX03_00__02_00 $param0035 nLO nBHDBS_LO
+sq Q04_02 0 $param0036 $param0037 nsqFinNode
+s SY04_02__04_01 $param0038 nsqFinNode nFI3b
+dbs F04_01 nFI3a nFI3b nFI3c nFI3d
+s SX04_01__02_01 $param0039 nFI3c nFI2b
+s SX04_01__05_01 $param0040 nFI3a FilterM1n1
+m1 M05_01 $param0041 5e-06 $param0042 FilterM1n1 FilterM1n2
+s SX05_01__06_01 $param0043 FilterM1n2 FilterM2n1
+m1 M06_01 $param0044 5e-06 $param0045 FilterM2n1 FilterM2n2
+pd1 poutf1 $fs AtPD1
+pd1 poutf2 $fs AtPD2
+s stoPD1 1.0 ToPD1 AtPD1
+s stoPD2 1.0 ToPD2 AtPD2
+qnoised nodeFinalDet1 1 $fs 0 AtPD1
+qnoised nodeFinalDet2 1 $fs 0 AtPD2
+qhd nodeFinalDet 180 AtPD1 AtPD2
+pd0 poutdc1 AtPD1
+pd0 poutdc2 AtPD2
+phase 2
+maxtem off
+yaxis re:im
+xaxis mRL_2_xsig f log
