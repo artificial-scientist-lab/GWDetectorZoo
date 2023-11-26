@@ -25,10 +25,10 @@ and learn new AI-inspired ideas and concepts of high-sensitivity interferometers
 </p>
 
 Details on these four superior solutions can be found at
-[Broadband](type5/sol00),
-[Cosmology](type9/sol00),
-[Supernova](type2/sol00) and
-[Neutron Star Post-Merger](type8/sol00).
+[Broadband](solutions/type5/sol00),
+[Cosmology](solutions/type9/sol00),
+[Supernova](solutions/type2/sol00) and
+[Neutron Star Post-Merger](solutions/type8/sol00).
 
 
 ## Solutions types
