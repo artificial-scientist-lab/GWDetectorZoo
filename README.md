@@ -43,8 +43,7 @@ geometric constraints. We sort them by the following properties:
 * *Broadband*: 20-5000Hz
 
 **Noise sources**
-* *Quantum*: Laser frequency noise, laser intensity noise, quantum noise
-* *Quantum+Classical*: Laser frequency noise, laser intensity noise, quantum noise, thermal noise, seismic noise
+* *Quantum*: Laser frequency noise, laser intensity noise, quantum noise (thermal noise discussed in detail in paper appendix)
 
 **Geometry constraints**
 * *Large*: UIFO diameters constraint to 4 kilometres
@@ -52,27 +51,10 @@ geometric constraints. We sort them by the following properties:
 
 
 ## Solutions
-The 59 solutions are sorted by type, and then by sensitivity. *Solution0* is the\
+The 47 solutions are sorted by type, and then by sensitivity. *Solution0* is the\
 best performing one, the last solution has lowest sensitivity while being better\
 than the LIGO Voyager baseline.
 
-* **Post-Merger, Quantum+Classical, Large**
-   * [Solution 0](solutions/type0/sol00)
-* **Narrow Post-Merger, Quantum+Classical, Large**
-   * [Solution 0](solutions/type1/sol00)
-   * [Solution 1](solutions/type1/sol01)
-   * [Solution 2](solutions/type1/sol02)
-   * [Solution 3](solutions/type1/sol03)     
-* **Supernova, Quantum+Classical, Large**
-   * [Solution 0](solutions/type2/sol00)
-   * [Solution 1](solutions/type2/sol01)
-   * [Solution 2](solutions/type2/sol02)
-* **Primodial Black Holes, Quantum+Classical, Large**
-   * [Solution 0](solutions/type3/sol00)
-   * [Solution 1](solutions/type3/sol01)
-   * [Solution 2](solutions/type3/sol02) 
-* **Broad Band, Quantum+Classical, Large**
-   * [Solution 0](solutions/type4/sol00)
 * **Broad Band, Quantum, Large**
    * [Solution 0](solutions/type5/sol00)
    * [Solution 1](solutions/type5/sol01)
