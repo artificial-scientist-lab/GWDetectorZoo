@@ -1,13 +1,13 @@
 # Gravitational Wave Detector Zoo
 
-**Artificial Scientific Discovery of interferometric Gravitational Wave Detectors**\
+**Digital Discovery of interferometric Gravitational Wave Detectors**\
 _[Mario Krenn](https://mariokrenn.wordpress.com/)<sup>†,1</sup>, [Yehonathan Drori](https://scholar.google.com/citations?user=OFQrfgYAAAAJ)<sup>†,2,3</sup>, [Rana X Adhikari](https://caltechexperimentalgravity.github.io/)<sup>2,3</sup>_\
 († = equal contribution)\
 <sup>1</sup>*Max Planck Institute for the Science of Light*\
 <sup>2</sup>*LIGO Laboratory*\
 <sup>3</sup>*California Institute of Technology*
 
-Here we present the technical details of solutions discovered by GWAlgo, and the\
+Here we present the technical details of solutions discovered by *Urania*, and the\
 corresponding PyKat and Finesse files for reproducing the solutions. All solutions\
 are superior to the LIGO Voyager baseline. As all solutions have superior sensitivity\
 compared to the LIGO Voyager baseline (which itself is parametrically optimized),\
