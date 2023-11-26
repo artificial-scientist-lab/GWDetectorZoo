@@ -51,7 +51,7 @@ geometric constraints. We sort them by the following properties:
 
 
 ## Solutions
-The 47 solutions are sorted by type, and then by sensitivity. *Solution0* is the\
+The 50 solutions are sorted by type, and then by sensitivity. *Solution0* is the\
 best performing one, the last solution has lowest sensitivity while being better\
 than the LIGO Voyager baseline.
 
@@ -93,7 +93,11 @@ than the LIGO Voyager baseline.
    * [Solution 21](solutions/type8/sol21)
    * [Solution 22](solutions/type8/sol22)
    * [Solution 23](solutions/type8/sol23)
-   * [Solution 24](solutions/type8/sol24)  
+   * [Solution 24](solutions/type8/sol24)
+* **Supernova, Quantum, Large**
+   * [Solution 0](solutions/type2/sol00)
+   * [Solution 1](solutions/type2/sol01)
+   * [Solution 2](solutions/type2/sol02) 
 * **Primodial Black Holes, Quantum, Large**
    * [Solution 0](solutions/type9/sol00)
    * [Solution 1](solutions/type9/sol01)
