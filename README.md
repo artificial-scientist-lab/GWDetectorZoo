@@ -1,6 +1,6 @@
 # Gravitational Wave Detector Zoo
 
-**Digital Discovery of interferometric Gravitational Wave Detectors**\
+**[Digital Discovery of interferometric Gravitational Wave Detectors](https://arxiv.org/abs/2312.04258)**\
 _[Mario Krenn](https://mariokrenn.wordpress.com/)<sup>†,1</sup>, [Yehonathan Drori](https://scholar.google.com/citations?user=OFQrfgYAAAAJ)<sup>†,2,3</sup>, [Rana X Adhikari](https://caltechexperimentalgravity.github.io/)<sup>2,3</sup>_\
 († = equal contribution)\
 <sup>1</sup>*Max Planck Institute for the Science of Light*\
